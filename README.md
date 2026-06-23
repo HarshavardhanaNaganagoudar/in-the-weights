@@ -144,6 +144,16 @@ Small models provide a clearer signal of what information is truly encoded insid
 
 ---
 
+
+## HuggingFace Space
+
+Space:
+
+**[Click here](https://huggingface.co/spaces/nharshavardhana/in-the-weights)**
+
+
+---
+
 ## Running Locally
 
 ### Clone
@@ -173,3 +183,9 @@ http://localhost:7860
 ```
 
 ---
+
+## 🖼️ App Screenshots
+
+| Input Screen  | Output Screen | 
+|-------------|---------------|
+| ![Input](docs/input_screen.png) | ![Output](docs/output_screen.png) |
